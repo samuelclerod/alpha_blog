@@ -47,5 +47,5 @@ class ArticlesControllerTest < ActionDispatch::IntegrationTest
     patch article_url(@article), params: { article: { title: "", description: "" } }
     assert_response :success
   end
-  
+
 end
