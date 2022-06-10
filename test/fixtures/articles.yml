@@ -1,0 +1,7 @@
+minitest:
+  title: using minitest
+  description: How to use minitest on rails app
+
+fixtures:
+  title: using fixtures
+  description: How to use fixtures to mock data on database
